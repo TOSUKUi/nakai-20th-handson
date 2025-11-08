@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "@marp-team/marp-cli": "^4.2.3",
+    "@marp-team/marp-core": "^4.2.0"
+  },
+  "marp": {
+    "inputDir": "./slides",
+    "output": "./public",
+    "themeSet": "./themes"
+  }
+}
